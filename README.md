@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone! I'm Alberto</h1>
 <h3 align="center">A JR Full Stack Web Developer from Italy</h3>
 
-- 📫 How to reach me **albertociufici@outlook.it**
+- 📫 Feel free to contact me: **albertociufici@outlook.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
